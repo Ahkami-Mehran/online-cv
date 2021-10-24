@@ -29,15 +29,15 @@ sidebar:
       - idiom: Persian
         level: Native
 
-    interests:
-      - item: Volleyball
-        link:
+    # interests:
+    #   - item: Volleyball
+    #     link:
 
-      - item: Climbing
-        link:
+    #   - item: Climbing
+    #     link:
 
-      - item: Cooking
-        link:
+    #   - item: Cooking
+    #     link:
 
 career-profile:
     title: Career Profile
