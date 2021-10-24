@@ -42,143 +42,84 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Computer science engineer with 7 years of experience and proven skills in data analysis, software
+      development, and machine learning (ML). Seeking to use academic, technical, and team working skills for
+      a position in software development, data management, and machine learning. At Daimler Mobility AG
+      cooperated with risk domain experts to develop and deploy scoring and rating applications, machine
+      learning models and automated services. Also, currently working on scorecard recalibration to improve
+      quantitative metrics. Meanwhile, I participated in cutting-edge courses like “AutoML”, “Deep learning”,
+      and “Machine Learning'' at Albert-Ludwigs-Universität Freiburg.
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of Freiburg
+      time: 2019 - 2022(expected)
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Major: Artificial Intelligence
+          - Constructed solid knowledge in Deep Learning, Machine Learning, and Reinforcement Learning
+          - Learned principles as well as a practical understanding of advanced database technologies
+    - degree: BSc in Information Technology Engineering
+      university: Amirkabir University of Technology (AUT)
+      time: 2012 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Thesis: Established a "Framework for cleaning Big Data" for medical records of the Ministry of Health in Iran
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Risk Instrument Working Student
+      time: Jun 2021 - Nov 2021
+      company: Daimler Mobility AG, Stuttgart (Germany)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Optimized and recalibrated scorecard model to improve quantitative metrics
+          - Created and tested business policy rules in IBM ODM tool
+    - role: Risk Instrument Intern
+      time: Oct 2020 - Apr 2021
+      company: Daimler Mobility AG, Stuttgart (Germany)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Collaborated closely with the IT department to migrate current solutions to Microsoft Azure.
+          - Introduced new scoring pipelines by integrating anomaly detection into the current procedure.
+          - Implemented a “Scorecard modeling Toolbox” to enhance model development for Risk Instrument Group at DMO.
+          - Worked with different data formats like csv, rds, xml, yaml, sas7bdat.
+    - role: Software Developer
+      time: Jun 2019 - Jul 2020
+      company: Psiori GmbH, Freiburg (Germany)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          - Developed frontend and backend services using Python, Docker, Vue.js
+          - Defined and trained machine-learning models with Keras and Tensorflow libraries to satisfy customer demands, using test-driven approaches.
+    - role: Technical Site Survey Coordinator
+      time: Aug 2016 - Sep 2017
+      company: Ericsson, Tehran (Iran)
+      details: |
+          - Delivered challenging project milestones within an international and multidisciplinary team.
+          - Gained a professional mindset by working as a telecommunication vendor.
+    - role: Andriod Developer Intern
+      time: Jun 2015 - Sep 2015
+      company: eFarda, Tehran (Iran)
+      details: |
+          - Developed an Android app based on Google Map API to report arrivals and departures of employees.
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Mehran Ahkami - Data Scientist / Software Engineer
